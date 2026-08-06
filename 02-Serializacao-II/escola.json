@@ -1,0 +1,51 @@
+{
+    "escola" : "IFPR",
+    "cidade" : "Foz do Iguaçu",
+    "ano_letivo" : 2026,
+    "alunos" : [
+        {
+            "id" : 1,
+            "nome" : "Asdrubaldo",
+            "turma" : "4 Semestre",
+            "status" : "Aprovado",
+            "boletim" : [
+                {"materia" : "Matemática", "nota" : 9.5},
+                {"materia" : "PHP", "nota" : 10.0},
+                {"materia" : "Banco de dados", "nota" : 8.0}
+            ]
+        },
+        {
+          "id" : 2,
+            "nome" : "Adanilton",
+            "turma" : "3 Semestre",
+            "status" : "Reprovado",
+            "boletim" : [
+                {"materia" : "Matemática", "nota" : 7.5},
+                {"materia" : "PHP", "nota" : 5.0},
+                {"materia" : "Banco de dados", "nota" : 6.0}
+            ]  
+        },
+        {
+          "id" : 3,
+            "nome" : "Masonilmadson",
+            "turma" : "3 Semestre",
+            "status" : "Aprovado",
+            "boletim" : [
+                {"materia" : "Matemática", "nota" : 8.5},
+                {"materia" : "PHP", "nota" : 8.0},
+                {"materia" : "Banco de dados", "nota" : 7.0}
+            ]  
+        },
+        {
+          "id" : 4,
+            "nome" : "Cardialimos",
+            "turma" : "2 Semestre",
+            "status" : "Reprovado",
+            "boletim" : [
+                {"materia" : "Matemática", "nota" : 5.5},
+                {"materia" : "PHP", "nota" : 4.0},
+                {"materia" : "Banco de dados", "nota" : 3.0}
+            ]  
+        }
+    ] 
+}
